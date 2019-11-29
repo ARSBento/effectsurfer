@@ -647,7 +647,7 @@ export default class WebAudio extends util.Observer {
         }
 
         // need to re-create source on each playback
-        this.createSource();
+        //this.createSource();
 
         const adjustedTime = this.seekTo(start, end);
 

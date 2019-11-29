@@ -1,5 +1,5 @@
 {
-  "name": "wavesurfer.js",
+  "name": "effectsurfer",
   "version": "3.2.0",
   "description": "Interactive navigable audio visualization using Web Audio and Canvas",
   "main": "dist/wavesurfer.js",
@@ -94,7 +94,7 @@
     "webpack-dev-server": "^3.9.0",
     "webpack-merge": "^4.2.2"
   },
-  "homepage": "https://github.com/katspaugh/wavesurfer.js",
+  "homepage": "https://github.com/ARSBento/effectsurfer",
   "pre-commit": "lint-and-format-staged",
   "lint-staged": {
     "*.js": [
